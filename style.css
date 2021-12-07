@@ -1,0 +1,32 @@
+*{box-sizing:border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.nav-1{
+    background-color: darkgray;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+} 
+.bt-1{
+    margin: 10px;
+    height: 40px;
+}
+.ul-1{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+.item{
+    
+    padding: 10px;
+}
+.img-2{
+    
+    height: 600px;
+}
+.img-1{
+   width: 1600px;
+}
